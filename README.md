@@ -17,14 +17,14 @@ It provides useful information overlaied on top of the video presented during tr
 
 ### Setup
 1. Evaluation logs
-    a. Download the evaluation logs
-    b. Unzip the logs
+    - Download the evaluation logs
+    - Unzip the logs
 2. Evaluation video
-    a. Download the evaluation video by simply right-clicking the video and saving it as .mp4.
+    - Download the evaluation video by simply right-clicking the video and saving it as .mp4.
 
 ![deepracer eval oage steos](./resources/deepracer_eval_page_steps.png)
 
 3. Notebook script
-    a. Change any necessary path variables in the beginning of the Python notebook.
-    b. Make sure you install all necessary Python dependencies.
+    - Change any necessary path variables in the beginning of the Python notebook.
+    - Make sure you install all necessary Python dependencies.
     b. Execute all cells. A new window with the simulation should pop up.
