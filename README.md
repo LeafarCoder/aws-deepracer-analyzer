@@ -11,6 +11,7 @@ It provides useful information overlaied on top of the video presented during tr
 - Easily jump to any moment of the race with keys 0-9
 - Increase/decrease speed of simulation controling the frames per seconds.
 - Total progress bar at the bottom.
+- Record the simulation into an MP4 video file.
 
 ![deepracer eval page steos](./resources/analyzer_demo.gif)
 
@@ -25,6 +26,6 @@ It provides useful information overlaied on top of the video presented during tr
 ![deepracer eval oage steos](./resources/deepracer_eval_page_steps.png)
 
 3. Notebook script
-    - Change any necessary path variables in the beginning of the Python notebook.
+    - Change any necessary path variables at the beginning of the Python notebook.
     - Make sure you install all necessary Python dependencies.
-    b. Execute all cells. A new window with the simulation should pop up.
+    - Execute all cells. A new window with the simulation should pop up.
