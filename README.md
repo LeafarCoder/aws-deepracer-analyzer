@@ -29,3 +29,7 @@ It provides useful information overlaied on top of the video presented during tr
     - Change any necessary path variables at the beginning of the Python notebook.
     - Make sure you install all necessary Python dependencies.
     - Execute all cells. A new window with the simulation should pop up.
+
+
+### Other log analysis tools
+https://github.com/aws-deepracer-community/deepracer-analysis
